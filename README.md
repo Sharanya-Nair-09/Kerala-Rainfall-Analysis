@@ -1,5 +1,5 @@
 # Kerala-Rainfall-Analysis
-Originally created under @Sharanya-Nair-09. Access lost due to account recovery issues.
+Originally created under @SharanyaNair9. Access lost due to account recovery issues.
 
 # 🌧️ Kerala Rainfall Analysis (1901–2018)
 
